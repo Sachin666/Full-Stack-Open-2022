@@ -16,4 +16,12 @@ Learn React, Redux, Node.js, MongoDB, GraphQL, TypeScript, React Native, GitHub 
 - Component State, event handlers
 - A more complex state, debugging React apps
 
+### [Part 2 - Communicating with server](https://fullstackopen.com/en/part2)
+
+- Rendering a collection, modules
+- Forms
+- Getting data from server
+- Altering data in server
+- Adding style to React apps
+
 
